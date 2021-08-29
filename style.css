@@ -1,0 +1,30 @@
+* {
+    padding: 15px;
+    margin: 10px;
+    font-family: "Berkshire Swash", cursive;
+}
+
+header {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid red;
+    border-radius: 25px;
+    text-align: center;
+    background-color: aquamarine;
+    font-family: "Berkshire Swash", cursive;
+}
+
+p {
+    text-align: center;
+    background-color: purple;
+    color: lightskyblue;
+    font-family: "Berkshire Swash", cursive;
+}
+
+ul {
+    align-content: left;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid blue;
+    font-family: "Berkshire Swash", cursive;
+}
